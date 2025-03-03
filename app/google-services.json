@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "380434837910",
+    "firebase_url": "https://inventory-df64a-default-rtdb.firebaseio.com",
+    "project_id": "inventory-df64a",
+    "storage_bucket": "inventory-df64a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380434837910:android:32e2d1c27db50ee117adb7",
+        "android_client_info": {
+          "package_name": "com.example.a35b_crud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChxpSaaOAGzxNaXi2p2eBlXbmzJhhsQ8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
